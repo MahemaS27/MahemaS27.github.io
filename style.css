@@ -129,6 +129,14 @@ main {
 	animation-fill-mode: forwards;
 }
 
+miniheadline{
+	animation: fadein 4s;
+	animation-delay: .5s;
+	animation-fill-mode: forwards;
+}
+
+
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
