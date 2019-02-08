@@ -20,7 +20,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: pink;
+	color: lightskyblue;
 	font-weight: 700;
 }
 
@@ -94,7 +94,7 @@ nav {
 }
 
 nav a {
-	color: pink;
+	color: lightskyblue;
 	padding: 5px;
 	margin: 5px 30px;
 	display: inline-block;
@@ -175,7 +175,7 @@ section p {
 
 /* CONTACT */
 .link-box {
-	border: 2px solid pink;
+	border: 2px solid lightskyblue;
 	padding: 7px;
 	letter-spacing: 2px;
 	border-radius: 7px;
